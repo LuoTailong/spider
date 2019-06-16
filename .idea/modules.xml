@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/lucene01/lucene01.iml" filepath="$PROJECT_DIR$/lucene01/lucene01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lucene01_2/lucene01_2.iml" filepath="$PROJECT_DIR$/lucene01_2/lucene01_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solr01/solr01.iml" filepath="$PROJECT_DIR$/solr01/solr01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solr02_cloud/solr02_cloud.iml" filepath="$PROJECT_DIR$/solr02_cloud/solr02_cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solr02_cloud2/solr02_cloud2.iml" filepath="$PROJECT_DIR$/solr02_cloud2/solr02_cloud2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spider01/spider01.iml" filepath="$PROJECT_DIR$/spider01/spider01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spider02/spider02.iml" filepath="$PROJECT_DIR$/spider02/spider02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spider03/spider03.iml" filepath="$PROJECT_DIR$/spider03/spider03.iml" />
+    </modules>
+  </component>
+</project>

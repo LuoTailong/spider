@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="lucene01" />
+        <module name="lucene01_2" />
+        <module name="solr01" />
+        <module name="solr02_cloud" />
+        <module name="solr02_cloud2" />
+        <module name="spider01" />
+        <module name="spider02" />
+        <module name="spider03" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="lucene01" target="1.5" />
+      <module name="lucene01_2" target="1.5" />
+      <module name="solr01" target="1.5" />
+      <module name="solr02" target="1.5" />
+      <module name="solr02_cloud" target="1.5" />
+      <module name="solr02_cloud2" target="1.5" />
+      <module name="spider01" target="1.5" />
+      <module name="spider02" target="1.8" />
+      <module name="spider03" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

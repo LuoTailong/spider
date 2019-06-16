@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/crawler01/pom.xml" />
+        <option value="$PROJECT_DIR$/spider02/pom.xml" />
+        <option value="$PROJECT_DIR$/spider01/pom.xml" />
+        <option value="$PROJECT_DIR$/spider03/pom.xml" />
+        <option value="$PROJECT_DIR$/lucene01/pom.xml" />
+        <option value="$PROJECT_DIR$/lucene01_2/pom.xml" />
+        <option value="$PROJECT_DIR$/solr01/pom.xml" />
+        <option value="$PROJECT_DIR$/solr02_cloud/pom.xml" />
+        <option value="$PROJECT_DIR$/solr02_cloud2/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
